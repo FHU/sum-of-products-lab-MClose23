@@ -6,8 +6,7 @@ def sum_of_products(list1, list2):
 
 if __name__ == '__main__':
    #REMOVE PASS AND YOUR CODE GOES HERE
-    
-elif len(list1) == len(list2):
+    len(list1) == len(list2)
  
     output = sum(int(list1_num) * int(list2_num) for list1_num, list2_num in zip(list1, list2))
     print(output)
