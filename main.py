@@ -4,7 +4,7 @@ def sum_of_products(list1, list2):
         output = sum(int(list1_num) * int(list2_num) for list1_num, list2_num in zip(list1, list2))
         return output
     else:
-        return "error"
+        return "error from here instead of something on github."
 
 
 if __name__ == '__main__':
