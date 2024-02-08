@@ -7,7 +7,6 @@ def sum_of_products(list1, list2):
         return "error"
 
 
-#work
 if __name__ == '__main__':
    #REMOVE PASS AND YOUR CODE GOES HERE
 
@@ -17,3 +16,6 @@ if __name__ == '__main__':
 
     final_output = sum_of_products(list1, list2)
     print(final_output)
+
+
+#please_work!
