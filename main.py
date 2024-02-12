@@ -11,11 +11,11 @@ if __name__ == '__main__':
    #REMOVE PASS AND YOUR CODE GOES HERE
 
     
-    list1 = input()
-    list2 = input()
+    list1 = input().replace(" ", "")
+    list2 = input().replace(" ", "")
 
     final_output = sum_of_products(list1, list2)
     print(final_output)
 
-#change something
+#change_something
 #please_work!
